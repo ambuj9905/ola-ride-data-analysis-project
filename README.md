@@ -65,23 +65,27 @@ You can access the dataset here:
 
 ### 🔹 Overall Dashboard
 
-![Overview](screenshots/overview.png)
+<img width="1129" height="635" alt="Screenshot 2026-04-13 at 6 53 43 PM" src="https://github.com/user-attachments/assets/77537f02-0aa0-4471-b47d-a1353af0ab58" />
+
 
 ### 🔹 Vehicle Type Analysis
 
-![Vehicle](screenshots/vehicle_type.png)
+<img width="1130" height="633" alt="Screenshot 2026-04-13 at 6 54 06 PM" src="https://github.com/user-attachments/assets/92c68040-ce21-4740-a4f0-eedde954fc8e" />
+
 
 ### 🔹 Revenue Insights
 
-![Revenue](screenshots/revenue.png)
+<img width="1133" height="633" alt="Screenshot 2026-04-13 at 6 57 05 PM" src="https://github.com/user-attachments/assets/a5289f79-ebcc-49b8-8bba-98274272afab" />
+
 
 ### 🔹 Cancellation Analysis
 
-![Cancellation](screenshots/cancellation.png)
+<img width="1133" height="635" alt="Screenshot 2026-04-13 at 6 57 42 PM" src="https://github.com/user-attachments/assets/7a3e6008-f7fb-4025-90c8-93024b339554" />
+
 
 ### 🔹 Ratings Analysis
 
-![Ratings](screenshots/ratings.png)
+<img width="1129" height="635" alt="Screenshot 2026-04-13 at 6 58 04 PM" src="https://github.com/user-attachments/assets/d4e73b78-ba65-4d6d-80ac-81f499c40863" />
 
 ---
 
